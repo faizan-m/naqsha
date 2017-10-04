@@ -1,13 +1,11 @@
 ********************************************************************************
-**                         README for Proj2 (Naqsha)        	                **
-**		    	   	  Comp 15 Data Structures Independent Project				          **
-**							               Faizan Muhammad						              		  **
+# NAQSHA Readme
 ********************************************************************************
 
 Time Spent: 25 Hours
 
 *************
-** PURPOSE **
+Purpose
 *************
 
 The purpose of this project was to develop the Naqsha Class. Naqsha stores and
@@ -19,7 +17,7 @@ Cell. For paths it returns a string of edges to choose from the start point to
 the end point.
 
 ***********************
-** ACKNOWLEDGEMENTS: ** 
+Acknowledgements
 ***********************
 
 * Delorie.com
@@ -30,7 +28,7 @@ the end point.
 	For all the Guidance and Help!
 
 ************
-** FILES: **
+Files:
 ************
 
 * KDTree.h:
@@ -75,7 +73,7 @@ the end point.
 	Guide to the completed NAQSHA project.
 
 *************************************
-** DATA STRUCTURES AND ALGORITHMS: ** 
+Data Structures and Algorithms:
 *************************************
 
 * KDTree:
@@ -106,7 +104,7 @@ the end point.
 	the destination to extract the path.
 
 ***********************
-** TESTING STRATEGY: ** 
+Testing Strategy
 ***********************
 
 KDTree was tested by the testKDTree.cpp and its modifications.
@@ -117,7 +115,7 @@ Naqsha was tested by RoboSim.cpp. The maps it was tested with are also included.
 
 
 *******************
-** FUTURE PLANS: ** 
+Future Plans
 *******************
 
 * Use Polar (Radius, Angle) instead of Cartesian (x, y) Coordinates
