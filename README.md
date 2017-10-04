@@ -1,9 +1,6 @@
 # NAQSHA Readme
 
-
-*************
-Purpose
-*************
+## Purpose
 
 The purpose of this project was to develop the Naqsha Class. Naqsha stores and
 consolidates information about a map, consideration location and walls.
@@ -13,9 +10,8 @@ interfaces using the SpacePacket structure to send in and return data about the
 Cell. For paths it returns a string of edges to choose from the start point to
 the end point.
 
-***********************
-Acknowledgements
-***********************
+
+## Acknowledgements
 
 * Delorie.com
 	ASCII Mazes for maze.txt and hugeMaze.txt
@@ -24,9 +20,7 @@ Acknowledgements
 * Erica Schwartz, Julie Jiang and Winnona DeSombre
 	For all the Guidance and Help!
 
-************
-Files:
-************
+## Files
 
 * KDTree.h:
 	KDTree Class Implementation. KDTree that can save 2D coordinates with a 
@@ -69,9 +63,7 @@ Files:
 * README
 	Guide to the completed NAQSHA project.
 
-*************************************
-Data Structures and Algorithms:
-*************************************
+## Data Structures and Algorithms:
 
 * KDTree:
 	KDTree structure is an extension of the concept of BSTrees. While BSTrees
@@ -100,9 +92,7 @@ Data Structures and Algorithms:
 	edge for shortest paths. Once the DFS has run. A path extractor is used from
 	the destination to extract the path.
 
-***********************
-Testing Strategy
-***********************
+## Testing Strategy
 
 KDTree was tested by the testKDTree.cpp and its modifications.
 
