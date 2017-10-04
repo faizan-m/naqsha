@@ -102,7 +102,7 @@ Naqsha was tested by RoboSim.cpp. The maps it was tested with are also included.
 
 
 *******************
-Future Plans
+## Future Plans
 *******************
 
 * Use Polar (Radius, Angle) instead of Cartesian (x, y) Coordinates
